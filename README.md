@@ -2,7 +2,7 @@ Hey, Pikadave Studios here, and I'm an indie game developer
 
 I like horror games, and sometimes just good ol' action!
 
-I code in python, and learning Unity at the moment!
+I code in python!
 
 
 <!---
